@@ -1,2 +1,2 @@
-# git-challange
+# git-challenge
 Tutorial for git
